@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    justify-content: center;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.content{
+    font-size: 20px;
+}
+
+.contactbutton{
+    color: black;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.downloadcv{
+    font-size: 20px;
+}
+
+.socialmedia{
+    margin: auto;
+    width: fit-content;
+    font-size: 30px;
+}
